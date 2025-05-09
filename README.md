@@ -1,1 +1,3 @@
-# Personal Portfolio of my work in the Data Science field
+# Personal Portfolio 
+
+This contains my own personal portfolio hosted on GitHub to showcase my work in the data science field
