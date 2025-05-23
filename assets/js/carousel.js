@@ -29,4 +29,10 @@ document.querySelectorAll('.project-image-carousel').forEach(function(carousel) 
 
   // Initialize
   showImage(current);
+
+  // Hide arrows if there's only one image
+  if (images.length === 1) {
+    leftArrow.style.display = 'none';
+    rightArrow.style.display = 'none';
+  }
 });
